@@ -29,4 +29,12 @@
   <a href="https://instagram.com/luucassotero"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
+<h5>Mais usados</h5>
+
+<div>
+  <p>
+    <img height="2000em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassoteroo&show_icons=true&layout=compact&theme=github_dark" />
+  </p>
+</div>
+
 ![](https://komarev.com/ghpvc/?username=lucassoteroo&color=blue&style=flat)
