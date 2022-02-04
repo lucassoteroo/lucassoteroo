@@ -2,7 +2,7 @@
 
 <p><b>"Sou um desenvolvedor front-end e cientista dedicado, sempre busco me especializar e buscar oportunidade de colocar em prática tudo que aprendo. Uso meus repositórios para projetos pessoais, estudo e colaboração com outros dev's"</b></p>
 
-<h5>Tecnologias que estou mais usando</h5>
+<h4>Tecnologias que estou mais usando</h4>
 
 <div>
   <img src="https://img.shields.io/badge/Html-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -17,13 +17,13 @@
   <img src="https://img.shields.io/badge/Less-1D365D?style=for-the-badge&logo=less&logoColor=white" />
 </div>
 
-<h5>Tecnologias que estou me aprofundando</h5>
+<h4>Tecnologias que estou me aprofundando</h4>
 
 <div>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 </div>
 
-<h5>Contatos</h5>
+<h4>Contatos</h4>
 
 <div>
   <a href = "mailto:lucassoteroo14@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -32,7 +32,7 @@
   <a href="https://instagram.com/luucassotero"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
-<h5>Mais usados</h5>
+<h4>Mais usados</h4>
 
 <div>
   <p>
