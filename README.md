@@ -2,7 +2,7 @@
 
 <p><b>"Sou um desenvolvedor front-end e cientista dedicado, sempre busco me especializar e buscar oportunidade de colocar em prática tudo que aprendo. Uso meus repositórios para projetos pessoais, estudo e colaboração com outros dev's"</b></p>
 
-<h4 style = "text-align: center">Tecnologias</h4>
+<h4 style="text-align: center;">Tecnologias</h4>
 
 <div style = "text-align: center">
   <img src="https://img.shields.io/badge/Html-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
