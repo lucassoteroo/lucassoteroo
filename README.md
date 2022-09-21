@@ -32,6 +32,6 @@
 
 <div align="center">
   <p>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassoteroo&show_icons=true&layout=compact&theme=github_dark" />
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassoteroo&layout=compact&theme=dracula" />
   </p>
 </div>
