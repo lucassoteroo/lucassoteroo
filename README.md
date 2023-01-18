@@ -27,11 +27,3 @@
   <a href="https://wa.me/5592993800146"><img src="https://img.shields.io/badge/-Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> 
   <a href="https://instagram.com/luucassotero"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
-
-<h4 align="center">Mais usados</h4>
-
-<div align="center">
-  <p>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassoteroo&layout=compact&theme=dracula" />
-  </p>
-</div>
